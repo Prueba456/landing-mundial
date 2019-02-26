@@ -1,0 +1,11 @@
+.fb-share-button.fb_iframe_widget{
+	width:100%;
+}
+.fb-share-button.fb_iframe_widget:first-child{
+	width:150px;
+	height:50px;
+}
+.fb-share-button.fb_iframe_widget span iframe{
+	width:100%;
+	height:100%;
+}
